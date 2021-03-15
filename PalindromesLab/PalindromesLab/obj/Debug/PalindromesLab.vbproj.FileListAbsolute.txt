@@ -1,0 +1,12 @@
+C:\Users\Cudlino\Documents\CVTC Classes\Spring 2021\1st 8 Weeks\.NET Application Development\Assignments\Level 2\PalindromesLab\PalindromesLab\bin\Debug\PalindromesLab.exe.config
+C:\Users\Cudlino\Documents\CVTC Classes\Spring 2021\1st 8 Weeks\.NET Application Development\Assignments\Level 2\PalindromesLab\PalindromesLab\bin\Debug\PalindromesLab.exe
+C:\Users\Cudlino\Documents\CVTC Classes\Spring 2021\1st 8 Weeks\.NET Application Development\Assignments\Level 2\PalindromesLab\PalindromesLab\bin\Debug\PalindromesLab.pdb
+C:\Users\Cudlino\Documents\CVTC Classes\Spring 2021\1st 8 Weeks\.NET Application Development\Assignments\Level 2\PalindromesLab\PalindromesLab\bin\Debug\PalindromesLab.xml
+C:\Users\Cudlino\Documents\CVTC Classes\Spring 2021\1st 8 Weeks\.NET Application Development\Assignments\Level 2\PalindromesLab\PalindromesLab\obj\Debug\PalindromesLab.vbprojAssemblyReference.cache
+C:\Users\Cudlino\Documents\CVTC Classes\Spring 2021\1st 8 Weeks\.NET Application Development\Assignments\Level 2\PalindromesLab\PalindromesLab\obj\Debug\PalindromesLab.frmPalindrome.resources
+C:\Users\Cudlino\Documents\CVTC Classes\Spring 2021\1st 8 Weeks\.NET Application Development\Assignments\Level 2\PalindromesLab\PalindromesLab\obj\Debug\PalindromesLab.Resources.resources
+C:\Users\Cudlino\Documents\CVTC Classes\Spring 2021\1st 8 Weeks\.NET Application Development\Assignments\Level 2\PalindromesLab\PalindromesLab\obj\Debug\PalindromesLab.vbproj.GenerateResource.cache
+C:\Users\Cudlino\Documents\CVTC Classes\Spring 2021\1st 8 Weeks\.NET Application Development\Assignments\Level 2\PalindromesLab\PalindromesLab\obj\Debug\PalindromesLab.vbproj.CoreCompileInputs.cache
+C:\Users\Cudlino\Documents\CVTC Classes\Spring 2021\1st 8 Weeks\.NET Application Development\Assignments\Level 2\PalindromesLab\PalindromesLab\obj\Debug\PalindromesLab.exe
+C:\Users\Cudlino\Documents\CVTC Classes\Spring 2021\1st 8 Weeks\.NET Application Development\Assignments\Level 2\PalindromesLab\PalindromesLab\obj\Debug\PalindromesLab.xml
+C:\Users\Cudlino\Documents\CVTC Classes\Spring 2021\1st 8 Weeks\.NET Application Development\Assignments\Level 2\PalindromesLab\PalindromesLab\obj\Debug\PalindromesLab.pdb
